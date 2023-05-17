@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+JNORIEGA.
+VISCA EL BARCA
+
+Soy Jorge Noriega y tengo 20 años. Actualmente estoy cursando 4to semestre en Instituto Tecnologia de Tijuan en la carrera de Ingenieria en Sistemas Computacionales.
+
 <!--
 **NoriegaHernandez/NoriegaHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
